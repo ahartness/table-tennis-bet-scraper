@@ -1,0 +1,2131 @@
+{
+	"data": {
+		"MatchList": [
+			{
+				"slug": "27-11-2024-zbigniew-nocun-dawid-pyrek-1",
+				"matchDate": "2024-11-27 06:05:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "nocun-zbigniew",
+						"langSlug": "en",
+						"name": "Nocun, Zbigniew",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "pyrek-dawid",
+						"langSlug": "en",
+						"name": "Pyrek, Dawid",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-adrian-fabis-iwasyszyn-wojciech",
+				"matchDate": "2024-11-27 05:45:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "fabis-adrian",
+						"langSlug": "en",
+						"name": "Fabis, Adrian",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "iwasyszyn-wojciech",
+						"langSlug": "en",
+						"name": "Wojciech Iwasyszyn",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-maciej-lamer-wolny-michal-1",
+				"matchDate": "2024-11-27 05:40:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "lamer-maciej",
+						"langSlug": "en",
+						"name": "Lamer, Maciej",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "wolny-michal-2",
+						"langSlug": "en",
+						"name": "Michal Wolny",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-bart-omiej-wi-niewski-mateusz-burkacki",
+				"matchDate": "2024-11-27 05:25:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "bartlomiej-wisniewski",
+						"langSlug": "en",
+						"name": "Bartlomiej Wisniewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "burkacki-mateusz",
+						"langSlug": "en",
+						"name": "Mateusz Burkacki",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-waldemar-glanowski-miroslaw-lewczuk",
+				"matchDate": "2024-11-27 05:20:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "waldemar-glanowski-4",
+						"langSlug": "en",
+						"name": "Waldemar Glanowski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "miroslaw-lewczuk-6",
+						"langSlug": "en",
+						"name": "Miroslaw Lewczuk",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-jaroslaw-rolak-piotr-staniszewski",
+				"matchDate": "2024-11-27 05:00:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "jaroslaw-rolak",
+						"langSlug": "en",
+						"name": "Jaroslaw Rolak",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "piotr-staniszewski",
+						"langSlug": "en",
+						"name": "Piotr Staniszewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-dawid-pyrek-wolny-michal-1",
+				"matchDate": "2024-11-27 04:55:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "pyrek-dawid",
+						"langSlug": "en",
+						"name": "Pyrek, Dawid",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "wolny-michal-2",
+						"langSlug": "en",
+						"name": "Michal Wolny",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-iwasyszyn-wojciech-mateusz-burkacki",
+				"matchDate": "2024-11-27 04:35:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "iwasyszyn-wojciech",
+						"langSlug": "en",
+						"name": "Wojciech Iwasyszyn",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "burkacki-mateusz",
+						"langSlug": "en",
+						"name": "Mateusz Burkacki",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-zbigniew-nocun-miroslaw-lewczuk",
+				"matchDate": "2024-11-27 04:30:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "nocun-zbigniew",
+						"langSlug": "en",
+						"name": "Nocun, Zbigniew",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "miroslaw-lewczuk-6",
+						"langSlug": "en",
+						"name": "Miroslaw Lewczuk",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-adrian-fabis-piotr-staniszewski",
+				"matchDate": "2024-11-27 04:10:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "fabis-adrian",
+						"langSlug": "en",
+						"name": "Fabis, Adrian",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "piotr-staniszewski",
+						"langSlug": "en",
+						"name": "Piotr Staniszewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-waldemar-glanowski-maciej-lamer-1",
+				"matchDate": "2024-11-27 04:05:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "waldemar-glanowski-4",
+						"langSlug": "en",
+						"name": "Waldemar Glanowski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "lamer-maciej",
+						"langSlug": "en",
+						"name": "Lamer, Maciej",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-jaroslaw-rolak-bart-omiej-wi-niewski",
+				"matchDate": "2024-11-27 03:50:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "jaroslaw-rolak",
+						"langSlug": "en",
+						"name": "Jaroslaw Rolak",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "bartlomiej-wisniewski",
+						"langSlug": "en",
+						"name": "Bartlomiej Wisniewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-miroslaw-lewczuk-dawid-pyrek-1",
+				"matchDate": "2024-11-27 03:45:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "miroslaw-lewczuk-6",
+						"langSlug": "en",
+						"name": "Miroslaw Lewczuk",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "pyrek-dawid",
+						"langSlug": "en",
+						"name": "Pyrek, Dawid",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-piotr-staniszewski-iwasyszyn-wojciech",
+				"matchDate": "2024-11-27 03:25:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "piotr-staniszewski",
+						"langSlug": "en",
+						"name": "Piotr Staniszewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "iwasyszyn-wojciech",
+						"langSlug": "en",
+						"name": "Wojciech Iwasyszyn",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-zbigniew-nocun-maciej-lamer",
+				"matchDate": "2024-11-27 03:20:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "nocun-zbigniew",
+						"langSlug": "en",
+						"name": "Nocun, Zbigniew",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "lamer-maciej",
+						"langSlug": "en",
+						"name": "Lamer, Maciej",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-adrian-fabis-bart-omiej-wi-niewski",
+				"matchDate": "2024-11-27 03:00:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "fabis-adrian",
+						"langSlug": "en",
+						"name": "Fabis, Adrian",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "bartlomiej-wisniewski",
+						"langSlug": "en",
+						"name": "Bartlomiej Wisniewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-waldemar-glanowski-wolny-michal",
+				"matchDate": "2024-11-27 02:55:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "waldemar-glanowski-4",
+						"langSlug": "en",
+						"name": "Waldemar Glanowski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "wolny-michal-2",
+						"langSlug": "en",
+						"name": "Michal Wolny",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-jaroslaw-rolak-mateusz-burkacki",
+				"matchDate": "2024-11-27 02:35:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "jaroslaw-rolak",
+						"langSlug": "en",
+						"name": "Jaroslaw Rolak",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "burkacki-mateusz",
+						"langSlug": "en",
+						"name": "Mateusz Burkacki",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-maciej-lamer-dawid-pyrek",
+				"matchDate": "2024-11-27 02:30:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "lamer-maciej",
+						"langSlug": "en",
+						"name": "Lamer, Maciej",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "pyrek-dawid",
+						"langSlug": "en",
+						"name": "Pyrek, Dawid",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-bart-omiej-wi-niewski-iwasyszyn-wojciech",
+				"matchDate": "2024-11-27 02:15:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "bartlomiej-wisniewski",
+						"langSlug": "en",
+						"name": "Bartlomiej Wisniewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "iwasyszyn-wojciech",
+						"langSlug": "en",
+						"name": "Wojciech Iwasyszyn",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-miroslaw-lewczuk-wolny-michal",
+				"matchDate": "2024-11-27 02:10:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "miroslaw-lewczuk-6",
+						"langSlug": "en",
+						"name": "Miroslaw Lewczuk",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "wolny-michal-2",
+						"langSlug": "en",
+						"name": "Michal Wolny",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-piotr-staniszewski-mateusz-burkacki",
+				"matchDate": "2024-11-27 01:50:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "piotr-staniszewski",
+						"langSlug": "en",
+						"name": "Piotr Staniszewski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "burkacki-mateusz",
+						"langSlug": "en",
+						"name": "Mateusz Burkacki",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-zbigniew-nocun-waldemar-glanowski",
+				"matchDate": "2024-11-27 01:45:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "nocun-zbigniew",
+						"langSlug": "en",
+						"name": "Nocun, Zbigniew",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "waldemar-glanowski-4",
+						"langSlug": "en",
+						"name": "Waldemar Glanowski",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-adrian-fabis-jaroslaw-rolak",
+				"matchDate": "2024-11-27 01:25:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": true,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "fabis-adrian",
+						"langSlug": "en",
+						"name": "Fabis, Adrian",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "jaroslaw-rolak",
+						"langSlug": "en",
+						"name": "Jaroslaw Rolak",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			},
+			{
+				"slug": "27-11-2024-maciej-lamer-miroslaw-lewczuk",
+				"matchDate": "2024-11-27 01:20:00",
+				"langSlug": "en",
+				"__typename": "Match",
+				"gameState": null,
+				"type": null,
+				"broadcasts": {
+					"livestream": null,
+					"__typename": "MatchBroadcastType"
+				},
+				"addMinute": null,
+				"serving": null,
+				"sportSlug": "table-tennis",
+				"gameScore": null,
+				"resultScore": null,
+				"hasOdds": false,
+				"hasH2h": false,
+				"hasSquads": false,
+				"hasStandings": false,
+				"hasPrediction": false,
+				"resultScores": [
+					{
+						"awayTiebreakScore": null,
+						"homeTiebreakScore": null,
+						"type": "FT",
+						"value": "0:0",
+						"__typename": "Score"
+					}
+				],
+				"server": null,
+				"leagueSlug": "tt-elite-series-1",
+				"cards": null,
+				"country": {
+					"iso": "WLD",
+					"slug": "world",
+					"__typename": "Country"
+				},
+				"tournamentName": null,
+				"uniqueTournament": {
+					"slug": "tt-elite-series-1",
+					"langSlug": "en",
+					"sportSlug": "table-tennis",
+					"__typename": "League",
+					"shortName": "TT Elite Series"
+				},
+				"uniqueTournamentName": "TT Elite Series",
+				"teams": [
+					{
+						"slug": "lamer-maciej",
+						"langSlug": "en",
+						"name": "Lamer, Maciej",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					},
+					{
+						"slug": "miroslaw-lewczuk-6",
+						"langSlug": "en",
+						"name": "Miroslaw Lewczuk",
+						"temporarilyQualified": false,
+						"__typename": "Team",
+						"id": null,
+						"logo": null,
+						"country": {
+							"iso": "WLD",
+							"__typename": "Country"
+						}
+					}
+				],
+				"status": {
+					"code": "0",
+					"__typename": "Status"
+				},
+				"isLive": false,
+				"isFinished": false,
+				"minute": null,
+				"tiebreak": null,
+				"winner": null
+			}
+		]
+	}
+}

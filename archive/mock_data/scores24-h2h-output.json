@@ -1,0 +1,1359 @@
+{
+  "data": {
+    "TeamMatches": [
+      {
+        "slug": "29-11-2024-bart-omiej-wi-niewski-blazej-szczepanek",
+        "matchDate": "2024-11-29 02:15:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "3:1",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "12:10",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "11:13",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:6",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "11:8",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "3:1",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 1,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "28-11-2024-bart-omiej-wi-niewski-blazej-szczepanek",
+        "matchDate": "2024-11-28 02:15:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "3:1",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "11:6",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "11:9",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "10:12",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "11:9",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "3:1",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 1,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "25-11-2024-bart-omiej-wi-niewski-blazej-szczepanek",
+        "matchDate": "2024-11-25 04:10:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "3:1",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "12:10",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "7:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:7",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "11:6",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "3:1",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 1,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "22-11-2024-szczepanek-blazej-wisniewski-bartlomiej",
+        "matchDate": "2024-11-22 03:00:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "2:3",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "17:19",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "12:10",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "9:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "12:10",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "5",
+            "value": "8:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "2:3",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 2,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "21-11-2024-wisniewski-bartlomiej-szczepanek-blazej",
+        "matchDate": "2024-11-21 05:25:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "3:1",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "9:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "11:9",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:6",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "11:8",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "3:1",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 1,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "15-11-2024-szczepanek-blazej-wisniewski-bartlomiej",
+        "matchDate": "2024-11-15 03:00:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "1:3",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "8:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "6:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:8",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "10:12",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "1:3",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 2,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "14-11-2024-wisniewski-bartlomiej-szczepanek-blazej",
+        "matchDate": "2024-11-14 02:15:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "3:0",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "11:9",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "11:8",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:9",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "3:0",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 1,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "13-11-2024-szczepanek-blazej-wisniewski-bartlomiej",
+        "matchDate": "2024-11-13 03:20:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "2:3",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "7:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "9:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:5",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "13:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "5",
+            "value": "9:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "2:3",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 2,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "12-11-2024-wisniewski-bartlomiej-szczepanek-blazej",
+        "matchDate": "2024-11-12 02:15:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "3:0",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "17:15",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "11:7",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:9",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "3:0",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 1,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "11-11-2024-wisniewski-bartlomiej-szczepanek-blazej",
+        "matchDate": "2024-11-11 04:10:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "3:2",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "8:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "11:6",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "11:5",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "4",
+            "value": "7:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "5",
+            "value": "11:5",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "3:2",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 1,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      },
+      {
+        "slug": "09-11-2024-szczepanek-blazej-wisniewski-bartlomiej",
+        "matchDate": "2024-11-09 03:00:00",
+        "langSlug": "en",
+        "__typename": "Match",
+        "gameState": null,
+        "type": null,
+        "broadcasts": {
+          "livestream": null,
+          "__typename": "MatchBroadcastType"
+        },
+        "addMinute": null,
+        "serving": null,
+        "sportSlug": "table-tennis",
+        "gameScore": null,
+        "resultScore": "0:3",
+        "hasOdds": true,
+        "hasH2h": false,
+        "hasSquads": false,
+        "hasStandings": false,
+        "hasPrediction": false,
+        "resultScores": [
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "1",
+            "value": "8:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "2",
+            "value": "9:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "3",
+            "value": "9:11",
+            "__typename": "Score"
+          },
+          {
+            "awayTiebreakScore": null,
+            "homeTiebreakScore": null,
+            "type": "FT",
+            "value": "0:3",
+            "__typename": "Score"
+          }
+        ],
+        "server": null,
+        "leagueSlug": "tt-elite-series-1",
+        "cards": null,
+        "country": {
+          "iso": "WLD",
+          "slug": "world",
+          "__typename": "Country"
+        },
+        "tournamentName": null,
+        "uniqueTournament": {
+          "slug": "tt-elite-series-1",
+          "langSlug": "en",
+          "sportSlug": "table-tennis",
+          "__typename": "League",
+          "shortName": "TT Elite Series"
+        },
+        "uniqueTournamentName": "TT Elite Series",
+        "teams": [
+          {
+            "slug": "blazej-szczepanek",
+            "langSlug": "en",
+            "name": "Blazej Szczepanek",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          },
+          {
+            "slug": "bartlomiej-wisniewski",
+            "langSlug": "en",
+            "name": "Bartlomiej Wisniewski",
+            "temporarilyQualified": false,
+            "__typename": "Team",
+            "id": null,
+            "logo": null,
+            "country": {
+              "iso": "WLD",
+              "__typename": "Country"
+            }
+          }
+        ],
+        "status": {
+          "code": "100",
+          "__typename": "Status"
+        },
+        "isLive": false,
+        "isFinished": true,
+        "minute": null,
+        "tiebreak": null,
+        "winner": 2,
+        "statistic": {
+          "filteredPeriods": [
+            {
+              "type": "total",
+              "items": [],
+              "__typename": "MatchStatisticPeriodByType"
+            }
+          ],
+          "__typename": "MatchStatistic"
+        }
+      }
+    ]
+  }
+}

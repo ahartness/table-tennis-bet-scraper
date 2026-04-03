@@ -1,0 +1,6704 @@
+			{
+			"h2h": [
+				{
+					"id": 4893057,
+					"date": "2024-11-13T16:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 24,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4891141,
+					"date": "2024-11-13T11:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 51,
+						"away_team_normal_time": 50,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 17,
+								"away_team": 15
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4852583,
+					"date": "2024-11-06T08:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 42,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4848943,
+					"date": "2024-11-05T07:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 49,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 5,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4817017,
+					"date": "2024-10-30T11:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 50,
+						"away_team_normal_time": 41,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 20,
+								"away_team": 18
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4813981,
+					"date": "2024-10-29T13:45:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 32,
+						"away_team_normal_time": 42,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4813203,
+					"date": "2024-10-29T06:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 37,
+						"away_team_normal_time": 41,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 13
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4790995,
+					"date": "2024-10-24T12:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 40,
+						"away_team_normal_time": 46,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 7,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4788925,
+					"date": "2024-10-24T09:35:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 50,
+						"away_team_normal_time": 40,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 12,
+								"away_team": 14
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 5
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4785407,
+					"date": "2024-10-23T15:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 35,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4778911,
+					"date": "2024-10-21T09:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 19,
+						"away_team_normal_time": 34,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4747751,
+					"date": "2024-10-18T06:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 50,
+						"away_team_normal_time": 54,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 9,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4744679,
+					"date": "2024-10-17T04:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 21,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4737257,
+					"date": "2024-10-15T15:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 42,
+						"away_team_normal_time": 31,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4733269,
+					"date": "2024-10-15T09:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 46,
+						"away_team_normal_time": 48,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 7
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4713043,
+					"date": "2024-10-09T09:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 44,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4709501,
+					"date": "2024-10-08T07:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 48,
+						"away_team_normal_time": 44,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 13
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 3
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4706543,
+					"date": "2024-10-07T09:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 37,
+						"away_team_normal_time": 41,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4694751,
+					"date": "2024-10-03T13:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 24,
+						"away_team_normal_time": 38,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4667609,
+					"date": "2024-09-27T09:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 39,
+						"away_team_normal_time": 47,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 4,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4661823,
+					"date": "2024-09-25T09:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 40,
+						"away_team_normal_time": 32,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4655525,
+					"date": "2024-09-24T08:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 17,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4652113,
+					"date": "2024-09-23T04:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 26,
+						"away_team_normal_time": 35,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 13
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4592195,
+					"date": "2024-09-12T16:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 35,
+						"away_team_normal_time": 19,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 2
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4590197,
+					"date": "2024-09-12T09:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 46,
+						"away_team_normal_time": 53,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 4,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4580697,
+					"date": "2024-09-10T09:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 26,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4578421,
+					"date": "2024-09-09T12:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 43,
+						"away_team_normal_time": 48,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 6,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4577591,
+					"date": "2024-09-09T06:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 21,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4559209,
+					"date": "2024-09-06T06:55:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 56,
+						"away_team_normal_time": 57,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 15,
+								"away_team": 17
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4556107,
+					"date": "2024-09-05T04:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 36,
+						"away_team_normal_time": 40,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4547845,
+					"date": "2024-09-02T16:35:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 36,
+						"away_team_normal_time": 32,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 3,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4545735,
+					"date": "2024-09-02T08:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 38,
+						"away_team_normal_time": 32,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4510829,
+					"date": "2024-08-28T13:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 36,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4508513,
+					"date": "2024-08-28T07:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 52,
+						"away_team_normal_time": 53,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 14,
+								"away_team": 12
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 13
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 10,
+								"away_team": 12
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4504795,
+					"date": "2024-08-27T06:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 21,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4479893,
+					"date": "2024-08-23T07:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 39,
+						"away_team_normal_time": 43,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 13,
+								"away_team": 15
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4478829,
+					"date": "2024-08-22T13:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 32,
+						"away_team_normal_time": 43,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4436381,
+					"date": "2024-08-16T15:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 30,
+						"away_team_normal_time": 37,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 13,
+								"away_team": 15
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4431701,
+					"date": "2024-08-15T14:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 41,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4383809,
+					"date": "2024-08-05T16:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 32,
+						"away_team_normal_time": 40,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4352523,
+					"date": "2024-07-31T15:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 28,
+						"away_team_normal_time": 40,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4303129,
+					"date": "2024-07-26T08:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 45,
+						"away_team_normal_time": 39,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4213631,
+					"date": "2024-07-12T15:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 50,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 10,
+								"away_team": 12
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4210607,
+					"date": "2024-07-11T16:35:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 45,
+						"away_team_normal_time": 34,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4209909,
+					"date": "2024-07-11T05:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 29,
+						"away_team_normal_time": 39,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4206125,
+					"date": "2024-07-10T15:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 17,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4172839,
+					"date": "2024-07-05T11:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 40,
+						"away_team_normal_time": 34,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4171281,
+					"date": "2024-07-04T16:20:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 49,
+						"away_team_normal_time": 37,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 6
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4163529,
+					"date": "2024-07-02T21:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 49,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 9,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4123673,
+					"date": "2024-06-28T07:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 48,
+						"away_team_normal_time": 43,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 5
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4122803,
+					"date": "2024-06-27T11:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 39,
+						"away_team_normal_time": 34,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4110723,
+					"date": "2024-06-23T17:10:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 38,
+						"away_team_normal_time": 42,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 5,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4029697,
+					"date": "2024-06-06T12:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 40,
+						"away_team_normal_time": 50,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 4,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 4000519,
+					"date": "2024-05-28T09:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 15,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3997277,
+					"date": "2024-05-27T06:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 54,
+						"away_team_normal_time": 54,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 12,
+								"away_team": 14
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 14,
+								"away_team": 12
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 9,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3984339,
+					"date": "2024-05-22T20:20:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 31,
+						"away_team_normal_time": 39,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3961933,
+					"date": "2024-05-17T10:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 35,
+						"away_team_normal_time": 29,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3958583,
+					"date": "2024-05-15T12:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 31,
+						"away_team_normal_time": 38,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3942737,
+					"date": "2024-05-10T11:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 51,
+						"away_team_normal_time": 39,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 6
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3938667,
+					"date": "2024-05-09T09:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 37,
+						"away_team_normal_time": 30,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 14,
+								"away_team": 12
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3901633,
+					"date": "2024-04-27T11:35:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 45,
+						"away_team_normal_time": 40,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3897995,
+					"date": "2024-04-26T06:55:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 24,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3893137,
+					"date": "2024-04-24T06:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 48,
+						"away_team_normal_time": 42,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 13,
+								"away_team": 15
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3883571,
+					"date": "2024-04-22T09:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 29,
+						"away_team_normal_time": 35,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3872459,
+					"date": "2024-04-19T08:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 22,
+						"away_team_normal_time": 40,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 1,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3869789,
+					"date": "2024-04-18T06:55:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 42,
+						"away_team_normal_time": 41,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 7,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3867043,
+					"date": "2024-04-17T06:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 18,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3862815,
+					"date": "2024-04-15T14:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 47,
+						"away_team_normal_time": 41,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 5
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3860691,
+					"date": "2024-04-15T08:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 38,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3848549,
+					"date": "2024-04-12T04:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 27,
+						"away_team_normal_time": 36,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 12,
+								"away_team": 14
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3841955,
+					"date": "2024-04-10T08:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 40,
+						"away_team_normal_time": 46,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 2,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 9,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3837387,
+					"date": "2024-04-08T13:25:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 1,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 41,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 13
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3825763,
+					"date": "2024-04-05T06:55:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 41,
+						"away_team_normal_time": 54,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 14,
+								"away_team": 12
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 6,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3824169,
+					"date": "2024-04-04T14:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 20,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3822199,
+					"date": "2024-04-04T09:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 51,
+						"away_team_normal_time": 54,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 13
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3802749,
+					"date": "2024-03-29T07:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 17,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 2
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3800655,
+					"date": "2024-03-28T14:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 46,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 10,
+								"away_team": 12
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3798827,
+					"date": "2024-03-28T09:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 41,
+						"away_team_normal_time": 47,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 7,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3797727,
+					"date": "2024-03-27T13:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 57,
+						"away_team_normal_time": 47,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 12,
+								"away_team": 14
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 13
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 4
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3797041,
+					"date": "2024-03-27T05:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 33,
+						"away_team_normal_time": 26,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3795301,
+					"date": "2024-03-26T13:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 43,
+						"away_team_normal_time": 37,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3768775,
+					"date": "2024-03-20T07:55:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 43,
+						"away_team_normal_time": 48,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 7,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3764409,
+					"date": "2024-03-19T08:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 42,
+						"away_team_normal_time": 45,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 6
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3761683,
+					"date": "2024-03-18T15:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 40,
+						"away_team_normal_time": 31,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 6
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3760773,
+					"date": "2024-03-18T06:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 42,
+						"away_team_normal_time": 41,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 6,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3751335,
+					"date": "2024-03-16T12:35:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 0,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 36,
+						"away_team_normal_time": 24,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3715191,
+					"date": "2024-03-07T15:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 49,
+						"away_team_normal_time": 49,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 12,
+								"away_team": 10
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3710503,
+					"date": "2024-03-06T13:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 20,
+						"away_team_normal_time": 34,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 2,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3709709,
+					"date": "2024-03-06T07:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 46,
+						"away_team_normal_time": 47,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 5,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 14,
+								"away_team": 12
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 12,
+								"away_team": 10
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3702263,
+					"date": "2024-03-04T07:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 43,
+						"away_team_normal_time": 29,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3689693,
+					"date": "2024-02-29T12:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 41,
+						"away_team_normal_time": 36,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 12,
+								"away_team": 10
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 7
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3679389,
+					"date": "2024-02-26T07:30:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 48,
+						"away_team_normal_time": 36,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 5
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 5
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3663103,
+					"date": "2024-02-23T08:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 29,
+						"away_team_normal_time": 38,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 14,
+								"away_team": 16
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3631087,
+					"date": "2024-02-15T11:05:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 17,
+						"away_team_normal_time": 33,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 2,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3627251,
+					"date": "2024-02-13T17:35:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 1,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 48,
+						"away_team_normal_time": 49,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 14,
+								"away_team": 12
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 19,
+								"away_team": 17
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3625609,
+					"date": "2024-02-13T10:15:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 59,
+						"away_team_normal_time": 63,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 18,
+								"away_team": 20
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 13,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 7,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3624313,
+					"date": "2024-02-12T12:00:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 45,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 3
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 4,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3622815,
+					"date": "2024-02-12T10:40:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 0,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 28,
+						"away_team_normal_time": 35,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 9,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 13
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 8,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": null,
+								"away_team": null
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": null,
+								"away_team": null
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3602177,
+					"date": "2024-02-07T05:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006551,
+					"home_team": "Spychala A.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006564,
+					"away_team": "Czerwinski B.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 2,
+						"away_team": 3,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 44,
+						"away_team_normal_time": 45,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 7,
+								"away_team": 11
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 4
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 6,
+								"away_team": 11
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 9,
+								"away_team": 11
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				},
+				{
+					"id": 3600963,
+					"date": "2024-02-06T12:50:00+00:00",
+					"code_state": "ended",
+					"match_state": "after",
+					"home_id": 1006564,
+					"home_team": "Czerwinski B.",
+					"home_image": "\/img\/default-avatar.svg",
+					"away_id": 1006551,
+					"away_team": "Spychala A.",
+					"away_image": "\/img\/default-avatar.svg",
+					"tournament": "TT Elite Series",
+					"flag": "\/assets\/tournaments\/icons\/22357.png?t=1700139075",
+					"score": {
+						"periods_count": 5,
+						"home_team": 3,
+						"away_team": 2,
+						"home_text": null,
+						"away_text": null,
+						"home_aggregate": null,
+						"away_aggregate": null,
+						"home_team_normal_time": 47,
+						"away_team_normal_time": 45,
+						"home_extra_info": [],
+						"away_extra_info": [],
+						"periods": [
+							{
+								"name": "period-1",
+								"trans_name": "status.table-tennis.period_1",
+								"period": 1,
+								"home_team": 10,
+								"away_team": 12
+							},
+							{
+								"name": "period-2",
+								"trans_name": "status.table-tennis.period_2",
+								"period": 2,
+								"home_team": 11,
+								"away_team": 9
+							},
+							{
+								"name": "period-3",
+								"trans_name": "status.table-tennis.period_3",
+								"period": 3,
+								"home_team": 4,
+								"away_team": 11
+							},
+							{
+								"name": "period-4",
+								"trans_name": "status.table-tennis.period_4",
+								"period": 4,
+								"home_team": 11,
+								"away_team": 8
+							},
+							{
+								"name": "period-5",
+								"trans_name": "status.table-tennis.period_5",
+								"period": 5,
+								"home_team": 11,
+								"away_team": 5
+							}
+						],
+						"series_score": []
+					},
+					"badge": null,
+					"badge_class": ""
+				}
+			]
+	}

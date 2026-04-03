@@ -1,0 +1,25 @@
+Notes on scores24 Live Graphql 
+
+There are vaiables at the end of the payload to get different types of datasets
+    "operationName":
+        Options:
+            "LeagueH2HLiveMatches" => Only gets Live Matches
+            "LeagueH2HMatches" => Gets Completed or Upcoming Matches
+    "variables":
+        "matchStatus": (Not in LeagueH2HLiveMatches)
+            Options:
+                "not_started" => Gets upcoming matches
+                "ended" => Gets matches that are completed
+
+For getting upcoming matches:
+    Games:
+        data["MatchList"][]
+            Array of upcoming games
+    Players:
+        data["MatchList"][0]["teams"]
+            Two entries in this array for each player
+    Date:
+        data["MatchList"][0]["matchDate"]
+            This gives the date in format => "YYYY-MM-DD hh:mm:ss"
+    
+    

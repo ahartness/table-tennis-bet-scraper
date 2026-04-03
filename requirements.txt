@@ -1,0 +1,6 @@
+http.client
+pandas
+statistics
+schedule
+chump
+python-dotenv
