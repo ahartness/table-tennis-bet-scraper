@@ -12,8 +12,8 @@ import sys
 def run_script():
     try:
         conn = http.client.HTTPSConnection("scores24.live")
-        app = Application("ahey4sok8gixmc2e5xqfynky4ah1x4")
-        user = app.get_user("u6ypbjv8t8jqzoodhktnkriw5bjz12")
+        app = Application("account_disabled")
+        user = app.get_user("account_disabled")
 
         dateNow = "2024-11-28 02:00:00"
 
