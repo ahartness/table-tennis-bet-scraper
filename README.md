@@ -1,68 +1,111 @@
-# Table Tennis Scraper
+# Table Tennis Bet Scraper
 
-## TODO Items:
-- [ ] Break out into individual components
-    - [ ] Bar Chart component
-    - [ ] Button Component
-    - [X] Utils for date function and others
-- [ ] Win/Loss Expectations or Predictions
-- [ ] 1st Set Point Spread odds (Always ±2.5)
-- [ ] Set 1 & 2 or Set 2 & 3 
-- [X] Try catch added to python script incase it fails on docker container
-- [X] Add more data to bar chart on visual nodejs UI
-- [ ] Add Data Tables under Bar Chart to show a more indepth breakdown of stats
-- [ ] Styling updates / Maybe use Figma for prototyping
-- [X] Date Time check to only pull games that are not started
-- [X] Automate the script and push to github for the UI Visualizer
-  - [ ] Need to push this to a Docker Container
-- [ ] Build out different way of selecting games (dropdown can feel cramped)
-- [ ] Pulling Over/Under Lines from Sportsbook to increase/decrease target depending on match-up
+## Project Status
 
-## Future Updates;
-- [ ] Pull Data for other sports (Hockey/NFL/NBA)
+This personal project has been archived and is no longer being updated.
 
-## Possible Future Uptades
-- [ ] Make a Private instance on Home Server (Need to buy a NAS for this)
-- [ ] Mobile App?
+It was built as a side project to analyze TT Elite Series table tennis matches and identify heavily favored matchups for betting opportunities. Development stopped after FanDuel flat-bet limited my account to a $10 maximum, which made bet-sizing increases on high-probability matches no longer profitable.
 
-## Completed Items
-- [X] Send push notifications when there is an upcoming game
-- [X] Investigate scores24 graphql endpoints
-- [X] Create a new script that uses scores24.live since there's more game data there
-- [X] Create variables for all editable fields
-- [X] Get Last "X" and full percentages to csv file
-- [X] Need weights added to the records based on games played
-- [X] Update algorithm for what are the best plays to show
-- [X] Fine Tune the Bet Amount for the "Best Plays"
-- [X] Logging updates for the output file doesn't become too large
-  - [X] Using Docker for this instead
-- [X] Create a visual & interactive UI (NextJS or Angular) -- Do Another Time
+## Overview
 
-## Running with docker
+This project scraped match data, modeled confidence for betting angles, and generated recommendation outputs for:
 
-```
+- Betting unit size
+- Target over/under point total
+- Match confidence interval (used as the baseline recommendation filter)
+
+The core data processing scripts were written in Python, with outputs saved to CSV/JSON for review and visualization.
+
+## What It Did
+
+- Collected and parsed TT Elite Series match data from web sources
+- Filtered upcoming events and focused on heavily favored matchups
+- Calculated confidence metrics per match to rank or exclude plays
+- Produced structured recommendation outputs for unit sizing and totals targets
+- Sent Pushover alerts to mobile when matches were opening (typically 30-45 minutes before start)
+- Powered a mobile-friendly web app for viewing results
+
+## Example Screenshots
+
+### Mobile Web App
+
+<table>
+	<tr>
+		<td><img src="data/screenshots/mobile-screenshot-1.png" alt="mobile-screenshot-1" width="280" /></td>
+		<td style="padding-left: 16px; vertical-align: top;">Main bar chart table with confidence stats and hit rate</td>
+	</tr>
+	<tr>
+		<td><img src="data/screenshots/mobile-screenshot-2.png" alt="mobile-screenshot-2" width="280" /></td>
+		<td style="padding-left: 16px; vertical-align: top;">Added numerical stats for additional bet options like 1st game, and set winner</td>
+	</tr>
+	<tr>
+		<td><img src="data/screenshots/mobile-screenshot-3.png" alt="mobile-screenshot-3" width="280" /></td>
+		<td style="padding-left: 16px; vertical-align: top;">full history table with set/match scores</td>
+	</tr>
+</table>
+
+### Pushover Notifications
+
+<table>
+	<tr>
+		<td><img src="data/screenshots/pushover-screenshot-1.jpg" alt="pushover-screenshot-1" width="280" /></td>
+		<td style="padding-left: 16px; vertical-align: top;">Notification list that was being pushed to my phone</td>
+	</tr>
+	<tr>
+		<td><img src="data/screenshots/pushover-screenshot-2.jpg" alt="pushover-screenshot-2" width="280" /></td>
+		<td style="padding-left: 16px; vertical-align: top;">individual notification for an upcoming match</td>
+	</tr>
+</table>
+
+## Stack
+
+- Python data scripts for scraping and recommendation logic
+- CSV/JSON output artifacts for downstream analysis and UI
+- Frontend app (Vite/React + TypeScript) for visualization
+- Docker scripts for running jobs in a containerized workflow
+- Pushover API integration for match notifications
+
+## Repository Layout
+
+- `scripts/`: active Python scripts and job runners
+- `data/`: generated outputs and historical exports
+- `src/`: frontend web app files
+- `archive/` and `old_script/`: legacy scripts and reference output files
+- Docker helper scripts: `docker-deploy.sh`, `docker-github-deploy.sh`, `docker-run-script.sh`
+
+## Running with Docker
+
+Build the image:
+
+```bash
 docker build -t table-tennis-scraper .
 ```
 
-Next Kill the old container
+Stop and remove an old container:
 
-```
+```bash
 docker container kill <container_name>
-
 docker container rm <container_name>
 ```
 
-Next:  Start the new container from latest image
-```
-docker run -d --name=<worker-name-here> <image_name>:latest
+Start a new container:
+
+```bash
+docker run -d --name <worker-name> table-tennis-scraper:latest
 ```
 
-Next:  View Logs to Validate
-```
+View logs:
+
+```bash
 docker logs <container_name>
 ```
 
-Run terminal shell inside docker container:
-```
+Open a shell inside the container:
+
+```bash
 docker exec -it <container_name> sh
 ```
+
+## Disclaimer
+
+This repository is archived and shared for personal/educational reference only. It is not actively maintained, and no betting performance or profitability is guaranteed. This is not financial advice.
